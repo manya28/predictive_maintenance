@@ -1,2 +1,5 @@
 Data/
 .DS_Store
+saved_prophet_models/
+EDA.ipynb
+prophet_model_evaluation_metrics.csv
