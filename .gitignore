@@ -3,3 +3,5 @@ Data/
 saved_prophet_models/
 EDA.ipynb
 prophet_model_evaluation_metrics.csv
+machine_performance_metrics.csv
+saved_prophet_models_global/
