@@ -17,5 +17,5 @@ If you're a conda user:
 - Download the environment.yml file and navigate to the folder containing the file. 
 - Run conda env create -f environment.yml to create the conda environment with all packages needed to run the notebook.
 - Run conda activate predictive-maintenance to activate your new environment
-- You're all set! Go ahead and run the notebook in this environment. 
+- You're all set! Go ahead and run the consolidated_predictive_maintenance.ipynb notebook in this environment. 
 
